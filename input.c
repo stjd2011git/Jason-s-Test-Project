@@ -3,6 +3,8 @@
  *
  *  Created on: Oct 14, 2011
  *      Author: Jason Jun Deng
+ * 	
+ *	Read input data from text files
  */
 
 #include <stdio.h>
