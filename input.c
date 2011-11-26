@@ -5,6 +5,7 @@
  *      Author: Jason Jun Deng
  * 	
  *	Read input data from text files
+ *	Now also notifies OnTime
  */
 
 #include <stdio.h>
